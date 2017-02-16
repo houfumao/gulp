@@ -1,0 +1,10 @@
+.index1 { background-color: red;border: 12px }
+.index2 { background-color: black; }
+
+.a{
+  .b{
+    display: flex;
+    border-radius: 5px;
+    transform: scale(2,2);
+  }
+}
