@@ -2,10 +2,9 @@
   "name": "test",
   "version": "1.0.0",
   "description": "This is for study gulp project !",
-  "homepage": "http://www.110.com",
   "repository": {
     "type": "git",
-    "url": "https://git.oschina.net/xxxx"
+    "url": "https://github.com/houfumao/gulp.git"
   },
   "author": {
     "name": "houzi",
